@@ -22,10 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# movie-app
-
-# movie-app
-
-# movie-app
 
 https://jiyaaany.github.io/movie-app
